@@ -1,6 +1,6 @@
 namespace UGD.UnknownProject
-
-{   /// <summary>
+{   
+	/// <summary>
 	/// @brief Interface FSM의 상태들의 Interface
 	/// @details State는 상태 클래스의 인터페이스로 사용되며 T는 상태를 소유하는 클래스입니다 
 	///	ex) test_entity의 StateMachine는 IState<test_entity>를 상태로 가집니다.
