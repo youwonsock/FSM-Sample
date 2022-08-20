@@ -1,6 +1,6 @@
 # FSM-Sample
 
-## 유튜버 고박사(link)님의 FSM강의를 참고해 만든 FSM입니다.
+## [유튜버 고박사](https://www.youtube.com/watch?v=DeJO4zOFG9E)님의 FSM강의를 참고해 만든 FSM입니다.
 
 ### Use_enum은 enum을 사용하는 기본 버전입니다.
  
